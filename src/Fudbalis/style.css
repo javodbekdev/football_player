@@ -1,0 +1,129 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.blocklist{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 700px;
+    background-color: cadetblue;
+    padding-left: 100px;
+}
+.block-1{
+    width: 350px;
+    height: 420px;
+    background-color: rgb(39, 73, 39);
+    align-self: center;
+    border-radius: 50px;
+    box-shadow: 15px 12px 10px #2a2929;
+}
+.img-1{
+    width: 350px;
+    height: 120px;
+    background-color: #FA3B42;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.img-1 img{
+    width: 80px;
+    height: 80px;
+    border: 5px solid #2E3550;
+    border-radius: 50px;
+    margin-left: 245px;
+    margin-top: -15px;
+}
+.img-1 h2{
+    position: relative;
+    top: 55px;
+    left: 45px;
+    font-size: 40px;
+    font-family: 'Tangerine', serif;
+    color: #EAF2F4;
+
+}
+.user{
+    font-size: 18px;
+    font-family: 'Girassol', cursive;
+    padding: 20px;
+    color: #D5B55F;
+}
+.user h3{
+    padding: 1px;
+}
+.button{
+    width: 180px;
+    height: 40px;
+    align-items: center;
+    border-radius: 50px;
+    border: 2px solid #eebb30;
+    margin: 40px 65px;
+    font-size: 18px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.8);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.block-2{
+    width: 350px;
+    height: 420px;
+    background-color: #9BBED7;
+    border-radius: 50px;
+    box-shadow: 15px 12px 10px #2a2929;
+
+}
+.img-2{
+    width: 350px;
+    height: 120px;
+    background-color: #D8D5E6;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.img-2 img{
+    width: 80px;
+    height: 80px;
+    border: 5px solid #050512;
+    border-radius: 50px;
+    margin-left: 245px;
+    margin-top: -15px;
+}
+.img-2 h2{
+    position: relative;
+    top: 55px;
+    left: 45px;
+    font-size: 40px;
+    font-family: 'Tangerine', serif;
+    color: #6A4332;
+
+}
+.block-3{
+    width: 350px;
+    height: 420px;
+    background-color: #E7E7E9;
+    border-radius: 50px;
+    box-shadow: 15px 12px 10px #2a2929;
+
+}
+.img-3{
+    width: 350px;
+    height: 120px;
+    background-color: #98875F;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+}
+.img-3 img{
+    width: 80px;
+    height: 80px;
+    border: 5px solid #E7E7E9;
+    border-radius: 50px;
+    margin-left: 245px;
+    margin-top: -15px;
+}
+.img-3 h2{
+    position: relative;
+    top: 55px;
+    left: 45px;
+    font-size: 40px;
+    font-family: 'Tangerine', serif;
+    color: #D5B55F;
+} */
